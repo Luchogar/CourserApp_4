@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CourserApp_5</string>
+    <string name="titulo_top">Top</string>
+    <string name="titulo_detalles">Detalles</string>
+    <string name="nombre_perro">Princesa</string>
+    <string name="likes">5</string>
+    <string name="titulo_contacto">Contacto</string>
+    <string name="titulo_acerca">Acerca De</string>
+    <string name="input_nombre">Nombre</string>
+    <string name="input_email">Correo</string>
+    <string name="input_mensaje">Mensaje</string>
+    <string name="btn_siguiente">Enviar</string>
+    <string name="miperro">Newton</string>
+    <string name="titulo_programador">Luis G </string>
+    <string name="programador">Nombre</string>
+    <string name="titulo_bio">Informacion</string>
+    <string name="titulo_empresa">GGT</string>
+    <string name="empresa">Grupo</string>
+    <string name="name">Cadabra</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
